@@ -1,4 +1,4 @@
-<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">date,location,total_vaccinations,total_distributed,people_vaccinated,people_fully_vaccinated_per_hundred,total_vaccinations_per_hundred,people_fully_vaccinated,people_vaccinated_per_hundred,distributed_per_hundred,daily_vaccinations_raw,daily_vaccinations,daily_vaccinations_per_million,share_doses_used,total_boosters,total_boosters_per_hundred
+date,location,total_vaccinations,total_distributed,people_vaccinated,people_fully_vaccinated_per_hundred,total_vaccinations_per_hundred,people_fully_vaccinated,people_vaccinated_per_hundred,distributed_per_hundred,daily_vaccinations_raw,daily_vaccinations,daily_vaccinations_per_million,share_doses_used,total_boosters,total_boosters_per_hundred
 2021-01-12,Alabama,78134.0,377025.0,70861.0,0.15,1.59,7270.0,1.45,7.69,,,,0.207,,
 2021-01-13,Alabama,84040.0,378975.0,74792.0,0.19,1.71,9245.0,1.53,7.73,5906.0,5906.0,1205.0,0.222,,
 2021-01-14,Alabama,92300.0,435350.0,80480.0,,1.88,,1.64,8.88,8260.0,7083.0,1445.0,0.212,,
@@ -26019,4 +26019,3 @@
 2022-02-15,Wyoming,723234.0,921765.0,333970.0,50.27,124.96,290953.0,57.7,159.27,4.0,573.0,990.0,0.785,119692,20.68
 2022-02-16,Wyoming,724510.0,921865.0,334331.0,50.35,125.18,291386.0,57.77,159.28,1276.0,747.0,1291.0,0.786,120166,20.76
 2022-02-17,Wyoming,727461.0,926785.0,334602.0,50.39,125.69,291651.0,57.81,160.13,2951.0,848.0,1465.0,0.785,120416,20.81
-</pre></body><iframe id="adbe-cookies-checker" src="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/data/js/extn-utils.html" style="display: none;"></iframe></html>
